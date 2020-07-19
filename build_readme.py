@@ -1,3 +1,5 @@
+# Code derived from Simon Willison: https://github.com/simonw/simonw
+
 import feedparser
 import re
 import os
