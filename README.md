@@ -1,1 +1,1 @@
-Fighting climate change with [code](https://civforge.com). More about me on my [personal website](https://wesdesilvestro.com).
+I'm interested in the intersection of progress, technology, and governance. I write over at [State Space](https://statespace.blog).
